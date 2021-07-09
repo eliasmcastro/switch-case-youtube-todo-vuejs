@@ -3,11 +3,16 @@
 </h1>
 
 <h3 align="center">
-  Criando uma aplicação de todos (criar tarefa, marcar/desmarcar a tarefa como concluída e remover tarefa) com Vue.js
+  Criando um app de todos/kanban utilizando Vue Router + Vuex com Vue.js
 </h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xkB8iOTb3yTrfYpH6rDQL8">Curso Iniciante</a>
+  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xkB8iOTb3yTrfYpH6rDQL8" target="_blank">
+    Curso Iniciante (Conceitos básicos)
+  </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xqtT7jn6PgzwC2jqdMajP2" target="_blank">
+    Curso Intermediário (Vue Router + Vuex)
+  </a>
 </p>
 
 <p align="center">Por Switch Case</p>
