@@ -7,10 +7,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xkB8iOTb3yTrfYpH6rDQL8" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xkB8iOTb3yTrfYpH6rDQL8">
     Curso Iniciante (Conceitos básicos)
   </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xqtT7jn6PgzwC2jqdMajP2" target="_blank">
+  <a href="https://www.youtube.com/playlist?list=PLp7Agl_Dsq-xqtT7jn6PgzwC2jqdMajP2">
     Curso Intermediário (Vue Router + Vuex)
   </a>
 </p>
